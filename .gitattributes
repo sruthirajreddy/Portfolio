@@ -1,2 +1,2 @@
+*.html linguist-vendored
 *.css linguist-language=CSS
-*.html linguist-language=HTML
